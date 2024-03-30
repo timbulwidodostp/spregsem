@@ -1,6 +1,8 @@
 # spregsem
 Maximum Likelihood Estimation Spatial Error Cross Sections Regression Use spregsem With STATA 18
 
+https://www.youtube.com/watch?v=CuTlMJqh0ss
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
